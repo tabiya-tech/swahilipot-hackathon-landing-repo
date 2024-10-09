@@ -10,7 +10,7 @@ To help you get started, here are the key open-source repositories and resources
 
 Tabiya’s enhanced taxonomy builds on the [ESCO v1.1.1](https://esco.ec.europa.eu/en) model, with significant additions, including previously overlooked work areas like micro-entrepreneurship and housework. The taxonomy has been designed to be more inclusive and semantically approachable.
 
-You can download the latest version [here](https://platform.tabiya.tech/downloads/66fc66596df8511609d59d6e-export-66fc67206df8511609d59dbe.zip).
+You can download the latest version [here](https://platform.tabiya.tech/downloads/67068e429c9182319b4bdbc0-export-67068fa49c9182319b4bdc8e.zip).
    
 Find a description of the CSV files [here](https://github.com/tabiya-tech/taxonomy-model-application/blob/main/backend/Import_Export_CSV_format.md), and a description of our database schema [here](https://github.com/tabiya-tech/taxonomy-model-application/tree/main/backend#database-schema) to help you understand how these files are imported into the Taxonomy Model App.
 
